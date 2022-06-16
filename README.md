@@ -1,5 +1,6 @@
 # Countrylist
 
+[![Known Vulnerabilities](https://snyk.io/test/github/indikarajanayake/countrylist/badge.svg)](https://snyk.io/test/github/indikarajanayake/countrylist)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
 
